@@ -1,4 +1,4 @@
-## Dot matrix
+## Dot matrix with threads
 
 This project has the intent of:
 - Filling two square matrices A and B of n rows by n columns, with random numbers between 0 and 100. 
